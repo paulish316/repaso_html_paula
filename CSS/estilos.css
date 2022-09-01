@@ -1,0 +1,55 @@
+h2 {
+    color:rgb(238, 1, 41);
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: center;
+    text-decoration-line: underline;
+    text-decoration-color: rgb(255, 255, 255);
+}
+
+h1 {
+    color:rgb(0, 73, 146);
+    text-decoration-line: underline;
+    text-decoration-color: rgb(255, 255, 255);
+    text-align: center;
+}
+
+
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: large;
+    color:aliceblue;
+    background-image: url(https://static.vecteezy.com/system/resources/previews/000/588/660/original/abstract-blur-gradient-background-with-trend-pink-purple-violet-and-blue-colors-for-deign-concepts-wallpapers-web-presentations-and-prints-vector-illustration.jpg);
+    background-attachment:fixed;
+    background-position:88%;
+   
+    
+
+
+}
+
+img,video,audio {
+    max-width: 250px;
+    max-height: 150px;
+    border-style: double;
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+table, th, td {
+    border: 1px solid;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+   
+
+  }
+
+p {
+    color: white;
+}
